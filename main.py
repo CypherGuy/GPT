@@ -1,11 +1,9 @@
-import getNews
-from getNews import getnews
 import summarize
 from summarize import summarizeNews
 
 import PySimpleGUI as sg      
 
-sg.theme('DarkAmber')    # Keep things interesting for your users
+sg.theme('DarkBlue2')    # Keep things interesting for your users
 
 linkQuestionFont = ("Arial", 21)
 AnswerFont = ("Arial", 15)
