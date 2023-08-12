@@ -1,53 +1,19 @@
-With Einstein’s rejection of quantum mechanics, he set off to research in a direction different from the trajectory of the rest of the field. While Einstein was trying to unify the gravitational and electromagnetic fields, the real action began in the quantum field.
+Sign up to Miguel Delaney’s Reading the Game newsletter sent straight to your inbox for free Sign up to Miguel’s Delaney’s free weekly newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
 
-Scientists have worked over the years to unify the various theories that explain the universe. (Image: NASA/WMAP Science Team/Public domain)
+Football email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
 
-Quantum Combinations: The Electroweak Force
+Chelsea remain confident in their pursuit of Moises Caicedo despite Liverpool's interest and Brighton's deadline, believing they have a superior offer to the player and that they can trump the Anfield club on price.
 
-Once scientists had a sense of how atoms work, there were four forces identified. Gravitation and electromagnetism are the two seen in the greater world, in addition to the strong force to keep the nucleus full of positive charges bound together, and the weak force to help create the other subatomic particles.
+The Blues are also seeking to offer the Seagulls players in exchange to break the deadlock in negotiations, with the south-coast club already accepting a larger offer from Liverpool, as confirmed by Jurgen Klopp,
 
-A universe with four basic forces seems elegant enough—but not to physicists. Theorists in the mid-20th century were trying to unify forces as well. Americans Sheldon Glashow and Steven Weinberg, and Pakistani physicist Abdus Salam were able to do just this in 1967, when they showed that the electromagnetic force and the weak nuclear force were different instances of the same thing. Now there was a universe with three active forces.
+The player himself has made it clear his preference is Stamford Bridge, and no terms have actually been agreed with the Anfield hierarchy. The situation is nevertheless complicated because Brighton set a deadline of Thursday evening for an auction.
 
-But these three are not seen as a trio; more like a pair and a third wheel. The combined electromagnetic and weak force, now called the electroweak force, and the strong force come from a quantum view of the universe. Gravitation is described by Einstein’s general theory of relativity, which has a fundamentally different view of the universe than quantum theory. But how can these be combined?
+Conor Gallagher is one who could be attractive to Brighton, although their recruitment is usually far more forward-thinking and considered than engaging in swap deals.
 
-There is a potential theory of everything, which is known as string theory, which not only attempts to unify the electroweak and strong forces but also includes a quantized picture of gravitation. If it is true, it would give us a completely new and exciting, if not strange, new image for the universe.
+Liverpool trumped Chelsea by £10m, in what would have been a Premier League record deal of £110m. The London club are prepared to improve on this, but it remains to be seen whether Brighton would re-open the process.
 
-This is a transcript from the video series Redefining Reality: The Intellectual Implications of Modern Science. Watch it now, on Wondrium.
+The race has created another sub-plot to Sunday's meeting between the two teams at Stamford Bridge, as both clubs have gone for Caicedo and Southampton’s Romeo Lavia, in what almost appears a response to the other.
 
-Pre-Quantum Era String Theory
+Chelsea had made Caicedo their top midfield target in an area that needs strengthening, which is one reason he is so enthused by the move.
 
-In the good old pre-quantum days when Weyl came to Einstein with the first attempt at a unified theory, others were thinking along the same line. The German physicist Theodor Kaluza proposed a picture that was subsequently developed by the Swedish physicist Oskar Klein. According the Kaluza-Klein model, gravitation and electromagnetism could be brought together if the field underlying reality was 5-dimensional.
-
-Events are located at places in 3-dimensional space at a time that has but a single future and a single past. Bring them together, as Einstein did, and the world can be seen as 4-dimensional.
-
-Einstein pursued early string theory with the hope that determinism may still be found in the extra dimensions postulated by the theory. (Image: Orren Jack Turner, Princeton, N.J./Public domain)
-
-This fifth dimension of Kaluza and Klein was thought of as being rolled up. If we think of each point in space not as a little dot, but as a little circle that the unit vector placed there could move around, then we could account for both the gravitational and the electromagnetic forces at that location.
-
-Einstein himself pursued Kaluza-Klein-type ideas. He thought that maybe the reason quantum mechanics seemed probabilistic was that the deterministic events were happening in this extra dimension. Unfortunately, Einstein failed to prove this. Wolfgang Pauli, the great Austrian physicist, thought that a Kaluza-Klein picture could unite the weak and strong nuclear forces. Unfortunately, this too failed.
-
-Learn more about the mistakes of three other great thinkers.
-
-The Return of String Theory
-
-With these failures, the multidimensional approach was discarded. But then, in the 1970s, it came back as string theory. String theorists seem to have come up with a way to account for all four forces. Space, in this theory, is made up of a collection of tiny loops of string.
-
-These strings can move in place in different but independent ways. Think of a loop of string spinning around. Now, it can also roll in on itself. This is an independent motion because it in no way affects the spinning. The spinning rolling string can have a wave that goes up and down the string. It can have another longitudinal wave moving in a perpendicular direction. It could have a compressional wave, a wave along the direction of the string. In fact, there could be compressional waves moving in opposite directions.
-
-So, between the spinning, the rolling, the longitudinal waves, and the compressional waves, there are six different independent motions the string could be undergoing at the same time. If these independent motions of the string are thought of as dimensions, then this represents a rich Kaluza-Klein type model.
-
-From Strings to Branes
-
-But, in 1995, the American physicist Ed Witten showed that these modes of string vibration could be used to account for both quantum and gravitational effects if reality is taken to have 11 dimensions, 10 for space and 1 for time. If space is thought of as being made up of infinitesimal strings, then they would need to be able to vibrate in 10 distinct ways to account for all of the field interactions that can be observed.
-
-Srings and branes are some of the theories that are used to describe the universe. These can be depicted using figures like the Calabi-Yau manifold above. (Image: vchal/Shutterstock)
-
-Some theorists argued that the points of quantized space should not be thought of as strings, but as 2-dimensional surfaces like the head of a drum. Such surfaces could vibrate in much more interesting and intricate ways. Space may therefore not be made of strings, but membranes. The term membrane was shortened to just ‘brane’.
-
-Different theories utilize branes of different degrees: a point would a 0-degree brane, and a string would be a 1-degree brane. Physicists refer to arbitrary branes of degrees p, or as they like to call them, p-branes. The idea is that in the properties of these p-branes a way can be found to unify all the forces in the universe into one single picture of reality.
-
-Is the world an 11-dimensional world filled with p-branes? Scientists don’t know yet. The process of redefining reality by modern science continues.
-
-Learn more about quantum field theory.
-
-Common Questions about Strings and Branes
+Follow all the latest on our Premier League transfers live blog
