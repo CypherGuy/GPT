@@ -33,10 +33,11 @@ while True:
     event, values = window.read() 
     print(event, values)   
     if event == 'Submit':
+        #Sees if it should be in bullet point form
         BP_form = values["BP"]
-        print(BP_form)
+        #Locks the summary section
         summaryBar.Update(disabled = False)
-        newText = summarize.summarizeNews(values["-LINK-"])
+        newText = summarize.summarizeNews(BP_form, values["-LINK-"])
         text = window['-SUMMARY-']
         text.update(newText)
         summaryBar.Update(disabled=True)

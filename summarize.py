@@ -8,7 +8,7 @@ import getNews
 
 os.environ["OPENAI_API_KEY"] = constants.APIKEY
 
-def summarizeNews(link): #Summarizes the news article using Vector Indexes
+def summarizeNews(bullet, link): #Summarizes the news article using Vector Indexes
     try:
         body = getNews.getnews(link)[1] #I have seperated the getnews function for code organisation
         with open('context.txt', 'w') as file:
@@ -16,6 +16,10 @@ def summarizeNews(link): #Summarizes the news article using Vector Indexes
         loader = TextLoader("context.txt")
         index = VectorstoreIndexCreator().from_loaders([loader])
 
-        return str(index.query("Please summarise the text given", llm = ChatOpenAI()))
+        if bullet:
+            return str(index.query("Please summarise the text given in bullet point form", 
+                                   llm = ChatOpenAI()))
+        else:
+            return str(index.query("Please summarise the text given", llm = ChatOpenAI()))
     except TypeError:
         return "I was unable to read that link. Did you put one in?"
