@@ -15,6 +15,7 @@ def getnews(article_url): #Returns the content of the article
             article = Article(article_url)
             article.download()
             article.parse()
+            print(article.text)
             return [article.title, article.text]
             
         else:
