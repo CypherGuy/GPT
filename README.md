@@ -1,4 +1,4 @@
-# GPT
+# NewsSummarizer
 A simple program using LangChain that can summarise news articles
 
 When forking a copy, please follow these steps:
